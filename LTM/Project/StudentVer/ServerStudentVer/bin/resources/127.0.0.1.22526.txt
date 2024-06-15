@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK D
+Server: C# server
+Content-Type: text/html/json; charset=UTF-8
+Date: 6/19/2023 1:15:15 AM
+Connection: keep-alive
+Content-Language: en
+
+
+<html><body><h1>File deleted.</h1></body></html>

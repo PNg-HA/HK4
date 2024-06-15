@@ -1,0 +1,7 @@
+Ph 1: I am the mayor. I can do anything I want.
+Ph 2: 0 1 1 2 3 5
+Ph 3:
+       4 j 81
+	 
+      
+ph 4: 0 0

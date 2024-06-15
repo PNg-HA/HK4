@@ -1,0 +1,10 @@
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.AssemblyReference.cache
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.cache
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.CoreCompileInputs.cache
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Move\UIT\HK4\LTM\ThucHanh\Week3\Bai_4\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

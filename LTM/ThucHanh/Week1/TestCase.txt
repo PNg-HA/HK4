@@ -1,0 +1,15 @@
+2 -> 10
+2 -> 16
+
+10 -> 16
+10 -> 2
+
+16 -> 2
+16 -> 10
+1.
+4. Test
+	Trống input
+	Trống format
+	2 format trùng
+	FromBox != 16: Nhập hex
+	FromBox == 2: Nhập dec 	

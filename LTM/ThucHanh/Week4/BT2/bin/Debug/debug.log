@@ -1,0 +1,55 @@
+[0525/154811.482:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0525/154812.346:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0525/154906.784:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0525/154911.367:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0525/154940.243:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0525/154948.467:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0525/154948.485:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836484 [5,4] will be ignored
+[0525/154948.537:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0525/154948.634:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0525/154948.635:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0525/154948.635:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0525/154948.635:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0525/154948.635:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[0525/154948.635:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[0525/154948.635:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[0525/154948.637:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[0525/154948.637:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0525/154948.651:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0525/154948.669:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803790 [6,14]
+[0525/154948.670:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803790 [6,14]
+[0525/154948.670:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803790 [6,14]
+[0525/154948.670:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803790 [6,14]
+[0525/154948.671:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0525/154948.682:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803787 [6,11]
+[0525/154948.682:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803787 [6,11]
+[0525/154948.682:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803787 [6,11]
+[0525/154948.682:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803787 [6,11]
+[0525/154948.686:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0525/154948.905:INFO:CONSOLE(254)] "%c%s color: red; background: yellow; font-size: 24px; CẢNH BÁO!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.vi.1iZzoeM-CIE.es5.O/am=Pjw6dwEECA/d=1/excm=_b,_r,_tp,privacyhomeview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGvXJB6sgso-dQTgVOvypW9SOZw0w/m=_b,_tp,_r (254)
+[0525/154948.905:INFO:CONSOLE(254)] "%c%s font-size: 18px; Sử dụng bảng điều khiển này có thể cho phép kẻ tấn công mạo danh bạn và lấy cắp thông tin của bạn bằng cuộc tấn công có tên Self-XSS.
+Không nhập hay dán mã mà bạn không hiểu.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.vi.1iZzoeM-CIE.es5.O/am=Pjw6dwEECA/d=1/excm=_b,_r,_tp,privacyhomeview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlGvXJB6sgso-dQTgVOvypW9SOZw0w/m=_b,_tp,_r (254)
+[0525/154948.994:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(135,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0525/154949.081:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(142,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0525/154949.697:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803792 [6,16] will be ignored
+[0525/154949.697:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803792 [6,16] will be ignored
+[0525/154949.743:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803793 [6,17] will be ignored
+[0525/154949.743:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803793 [6,17] will be ignored
+[0525/154949.785:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803794 [6,18] will be ignored
+[0525/154949.785:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803794 [6,18] will be ignored
+[0525/154949.828:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803795 [6,19] will be ignored
+[0525/154949.828:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803795 [6,19] will be ignored
+[0525/154949.906:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803796 [6,20] will be ignored
+[0525/154949.906:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803796 [6,20] will be ignored
+[0525/154949.973:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803797 [6,21] will be ignored
+[0525/154949.973:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803797 [6,21] will be ignored
+[0525/154950.028:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803798 [6,22] will be ignored
+[0525/154950.028:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803798 [6,22] will be ignored
+[0525/154950.074:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803799 [6,23] will be ignored
+[0525/154950.075:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803799 [6,23] will be ignored
+[0525/154950.084:WARNING:obfuscated_file_util.cc(1405)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube-nocookie.com/temporary/, storage key: { origin: https://www.youtube-nocookie.com, top-level site: https://youtube-nocookie.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0525/154952.500:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.

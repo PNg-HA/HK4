@@ -1,0 +1,14 @@
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\bin\Debug\BaiTap.exe.config
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\bin\Debug\BaiTap.exe
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\bin\Debug\BaiTap.pdb
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.Form1.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.exe
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.pdb
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.bt1.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.bt2.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.bt3.resources
+D:\Move\UIT\HK4\LTM\ThucHanh\Week2\BaiTap\obj\Debug\BaiTap.bt5.resources

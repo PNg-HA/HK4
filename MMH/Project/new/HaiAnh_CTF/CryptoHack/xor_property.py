@@ -1,0 +1,5 @@
+int_flag_k1_k3_k2 = int('04ee9855208a2cd59091d04767ae47963170d1660df7f56f5faf', 16)
+int_k2_k3 = int('c1545756687e7573db23aa1c3452a098b71a7fbf0fddddde5fc1', 16)
+int_k1 = int('a6c8b6733c9b22de7bc0253266a3867df55acde8635e19c73313',16)
+flag = bytes.fromhex((hex(int_flag_k1_k3_k2 ^ int_k1 ^ int_k2_k3)[2:]))
+print(flag)

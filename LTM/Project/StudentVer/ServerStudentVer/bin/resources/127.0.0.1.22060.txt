@@ -1,0 +1,20 @@
+HTTP/1.1 500System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__107.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__96.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at ServerStudentVer.Server.Register(String name, String pass) in D:\Move\UIT\HK4\LTM\Project\StudentVer\ServerStudentVer\Server.cs:line 585
+Server: C# server
+Content-Type: text/html/json; charset=UTF-8
+Date: 6/19/2023 12:21:21 PM
+Connection: keep-alive
+Content-Language: en
+

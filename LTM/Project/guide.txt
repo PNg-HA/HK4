@@ -1,0 +1,4 @@
+git checkout HA
+git add .
+git status
+git push --set-upstream origin HA

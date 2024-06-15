@@ -1,0 +1,7 @@
+HTTP/1.1 304 Moved Permanently
+location: https://
+Server: C# server
+Content-Type: text/html/json; charset=UTF-8
+Connection: keep-alive
+Content-Language: en
+

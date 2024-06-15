@@ -1,0 +1,13 @@
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\bin\Debug\Weather App.exe.config
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\bin\Debug\Weather App.exe
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\bin\Debug\Weather App.pdb
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\bin\Debug\Newtonsoft.Json.dll
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\bin\Debug\Newtonsoft.Json.xml
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather App.csproj.AssemblyReference.cache
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather_App.Form1.resources
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather App.csproj.CopyComplete
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather App.exe
+D:\Move\UIT\HK4\LTM\Code\bt6\Weather App\obj\Debug\Weather App.pdb

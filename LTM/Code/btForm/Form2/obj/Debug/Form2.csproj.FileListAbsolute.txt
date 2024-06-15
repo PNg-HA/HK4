@@ -1,0 +1,10 @@
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\bin\Debug\Form2.exe.config
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\bin\Debug\Form2.exe
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\bin\Debug\Form2.pdb
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.Properties.Resources.resources
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.exe
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.pdb
+D:\Move\UIT\HK4\LTM\Code\btForm\Form2\obj\Debug\Form2.Form2.resources
